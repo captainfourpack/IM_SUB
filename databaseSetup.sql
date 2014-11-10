@@ -1,3 +1,4 @@
+
 CREATE DATABASE  IF NOT EXISTS `im_test2` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `im_test2`;
 -- MySQL dump 10.13  Distrib 5.6.19, for Win64 (x86_64)
